@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PracticasReactJS/static/css/main.ac02d858.css",
+    "main.js": "/PracticasReactJS/static/js/main.94cd7c40.js",
+    "static/js/787.4e103b0e.chunk.js": "/PracticasReactJS/static/js/787.4e103b0e.chunk.js",
+    "static/media/LogoITT.jpg": "/PracticasReactJS/static/media/LogoITT.0604befb1e23595ea429.jpg",
+    "index.html": "/PracticasReactJS/index.html",
+    "main.ac02d858.css.map": "/PracticasReactJS/static/css/main.ac02d858.css.map",
+    "main.94cd7c40.js.map": "/PracticasReactJS/static/js/main.94cd7c40.js.map",
+    "787.4e103b0e.chunk.js.map": "/PracticasReactJS/static/js/787.4e103b0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac02d858.css",
+    "static/js/main.94cd7c40.js"
+  ]
+}
